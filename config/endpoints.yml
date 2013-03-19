@@ -1,0 +1,20 @@
+# US East (Northern Virginia)
+us-east-1: ec2.us-east-1.amazonaws.com
+
+# US West (Oregon)
+us-west-2: ec2.us-west-2.amazonaws.com
+
+# US West (Northern California)
+us-west-1: ec2.us-west-1.amazonaws.com
+
+# EU (Ireland)
+eu-west-1: ec2.eu-west-1.amazonaws.com
+
+# Asia Pacific (Singapore)
+ap-southeast-1: ec2.ap-southeast-1.amazonaws.com
+
+# Asia Pacific (Tokyo)
+ap-northeast-1: ec2.ap-northeast-1.amazonaws.com
+
+# South America (Sao Paulo)
+sa-east-1: ec2.sa-east-1.amazonaws.com
